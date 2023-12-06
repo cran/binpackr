@@ -1,0 +1,17 @@
+ad4485d142127b66c61e4dfdb9ddee27 *DESCRIPTION
+cdee4207a1340b3bcfc42a916d1e2235 *NAMESPACE
+7a870595a4f82c7dd607b2a5f908a2e4 *NEWS.md
+83c32dfd68f7ad21ee79c4b917439217 *R/bin_pack.R
+775b652e596161b94a1d11bf4dc9285f *R/binpackr-package.R
+fd00e9eab4b3991c8fc380ba2f178c4f *R/cpp11.R
+2517a65afa9b8f9449bb205d7b0f562d *README.md
+31a68eeec7554b2a5922bf7524b12a52 *man/bin_pack_ffd.Rd
+216d5bbbb39b2bed46ffcc907698bc89 *man/figures/README-benchmark_memory-1.png
+47fbcf79ce1a20645c970689a0bcd6d1 *man/figures/README-benchmark_runtime-1.png
+cbd2d98c8195cd4d22d46f9cb245c826 *man/figures/README-pressure-1.png
+e38e5daa4d62de408b1f23838ed43167 *src/cpp11.cpp
+33ea2fba1b4f76aac8607fe228c2018e *src/exports.cpp
+702d3775ee69de92548eff14be87042c *src/first_fit_fast.cpp
+068062d9e4dc9a87bcb4555618decd75 *src/first_fit_fast.h
+cfc52995f3ba4ffb6b80ef901d5de8f5 *tests/testthat.R
+3f2fcac63aefa61840eaaab70cfff812 *tests/testthat/test-bin_pack_ffd.R
